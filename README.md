@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustschaefer" alt="gustschaefer" /></a> </p>
 
-- 👷 I’m currently working at [Anheuser-Busch InBev](https://www.ab-inbev.com/)
+- 👷 I’m currently working at [Factored](https://factored.ai/)
 
 - 🤖 Contributing to Researches at [LABIC](https://labic.utfpr.edu.br/)
 
